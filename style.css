@@ -1,0 +1,46 @@
+img{
+    width: 100%;
+}
+.me{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2vh;
+}
+hr{
+    margin-top: 4vh;
+    width: 70%;
+}
+.king{
+    display: flex;
+}
+nav{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+
+    background-color:rgb(248, 243, 243);
+}
+section{
+   
+    margin: 5px;
+    padding-left: 1vw;
+}
+.section2{
+    margin-top: 2vh;
+    box-shadow:16px 16px 16px 16px rgb(222, 213, 213);
+    background-color:rgb(248, 243, 243)
+   
+}
+.section1{
+    box-shadow:16px 16px 16px 16px  rgb(222, 213, 213);
+    background-color:rgb(248, 243, 243)
+ 
+}
+footer{
+
+    margin-top: 2vh;
+    background-color: #009687 ;
+    height: 100px;
+}
